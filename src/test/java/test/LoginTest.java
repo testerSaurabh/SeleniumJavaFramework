@@ -24,4 +24,9 @@ public class LoginTest extends BasePage {
 		System.out.println("Test Github");
 	}
 	
+	@Test
+	public void test2() {
+		System.out.println("Test Github 2");
+	}
+	
 }
