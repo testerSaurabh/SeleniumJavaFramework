@@ -19,14 +19,4 @@ public class LoginTest extends BasePage {
 		LoginPage.loginErrorValidation(driver, userName, password);
 	}
 	
-	@Test
-	public void test1() {
-		System.out.println("Test Github");
-	}
-	
-	@Test
-	public void test2() {
-		System.out.println("Test Github 2");
-	}
-	
 }
